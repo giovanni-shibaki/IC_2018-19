@@ -1,12 +1,12 @@
 # IC_2018-19 - Inteligência Artifical e Aplicações
 
 Iniciação Científica realizada durante 1 ano a partir do segundo semestre de 2018.  
-Orientador: Prof. Dr. Felipe Fernandes Fanchini
+Orientador: Prof. Dr. Felipe Fernandes Fanchini  
 
 
 # Objetivos
 
-O projeto visa gerar, modelar e analisar um banco de dados mySQL de uma empresa de TELECOM e por meio de diversas técnicas de classificação e rede neural analisar os usuários e, de acordo com suas últimas ações, classificar se estes são usuários com número ainda ativo no sistema ou se foram cancelados pelo menor que seja o motivo e também analisar a eficiência de cada característica dentro dos diversos métodos de classificação. Para tal foram utilizados os programas computacionais MatLab e Python, além de Banco de dados Mysql para o armazenamento, modelação e organização dos dados pré disponibilizados.
+O projeto visa gerar, modelar e analisar um banco de dados mySQL de uma empresa de TELECOM e por meio de diversas técnicas de classificação e rede neural analisar os usuários e, de acordo com suas últimas ações, classificar se estes são usuários com número ainda ativo no sistema ou se foram cancelados pelo menor que seja o motivo e também analisar a eficiência de cada característica dentro dos diversos métodos de classificação. Para tal foram utilizados os programas computacionais MatLab e Python, além de Banco de dados Mysql para o armazenamento, modelação e organização dos dados pré disponibilizados.  
 
 ## Objetivos específicos:
 
