@@ -33,6 +33,10 @@ Durante o desenvolvimento do projeto foi pesquisado o funcionamento e aplicaçã
 - Regressão Logística
 - K-Nearest Neighbor
 
+# Precisão de alguns dos classificadores observados:
+
+![](imagens/precisao_treino_teste.PNG)
+
 # Arquivos
 
 Neste repositório estão contidos alguns dos programas desenvolvidos durante a realização do projeto, os resultados obtidos e também a documentação feita para esta Iniciação Científica.
