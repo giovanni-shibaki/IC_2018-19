@@ -40,3 +40,5 @@ Durante o desenvolvimento do projeto foi pesquisado o funcionamento e aplicaçã
 # Arquivos
 
 Neste repositório estão contidos alguns dos programas desenvolvidos durante a realização do projeto, os resultados obtidos e também a documentação feita para esta Iniciação Científica.
+
+Dentro da pasta TELECOM estão contidos alguns dos programas desenvolvidos e dentro de Caracteristicas e CaracteristicasT, estão todas as 16 características obtidas através da modelação do banco de dados que serão utilizadas durante a classificação.
