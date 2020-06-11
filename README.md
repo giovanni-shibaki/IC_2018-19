@@ -5,7 +5,21 @@ Iniciação Científica realizada durante 1 ano a partir do segundo semestre de 
 
 # Objetivos
 
-Implementação de um algoritmo de IA a fim de mensurar o índice de evasão dos clientes de uma companhia de Telecom.
+O projeto visa gerar, modelar e analisar um banco de dados mySQL de uma empresa de TELECOM e por meio de diversas técnicas de classificação e rede neural analisar os usuários e, de acordo com suas últimas ações, classificar se estes são usuários com número ainda ativo no sistema ou se foram cancelados pelo menor que seja o motivo e também analisar a eficiência de cada característica dentro dos diversos métodos de classificação. Para tal foram utilizados os programas computacionais MatLab e Python, além de Banco de dados Mysql para o armazenamento, modelação e organização dos dados pré disponibilizados.
+
+## Objetivos específicos:
+
+1 - Gerar um banco de dados no qual serão armazenados milhares de dados divididos em diferentes tabelas, cada uma com seus próprios atributos e tipos de informação;
+
+2 - Modelar e organizar o banco de dados de acordo com as necessidades do projeto, por meio da separação dos contratos de cada usuário e também a contagem do número de ação destes dentro de um período de tempo pré-estabelecido;
+
+3 - Gerar, após toda a seleção e modelagem das informações necessárias, arquivos CSV já organizados com os atributos que serão analisados pelas diferentes ferramentas de classificação de dados;
+
+4 - Pesquisar e criar um script básico de cada método de classificação de dados para ser aplicado dentro do dataset criado a partir do arquivo CSV já existente, para assim classificar os contratos dos usuários do TELECOM como sendo ativos ou cancelados, com diferentes precisões de acordo com o número e ordem nas características analisadas.
+
+5 - Reconhecer a importância de cada atributo fornecido para o aumento ou diminuição da precisão e velocidade dos classificadores e comparar a eficácia dos diferentes métodos de classificação sobre os dados modelados e fornecidos ao programa para treino e teste.
+
+
 
 ## Etapas de Desenvolvimento
 
@@ -33,9 +47,13 @@ Durante o desenvolvimento do projeto foi pesquisado o funcionamento e aplicaçã
 - Regressão Logística
 - K-Nearest Neighbor
 
+
+
 # Precisão de alguns dos classificadores observados:
 
 ![](imagens/precisao_treino_teste.PNG)
+
+
 
 # Arquivos
 
