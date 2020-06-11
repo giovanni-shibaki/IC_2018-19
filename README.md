@@ -24,7 +24,7 @@ Utilizando-se da biblioteca de Aprendizado de Máquina Scikit-Learn foi desenvol
 
 
 
-## Classificadores observados
+# Classificadores observados
 
 Durante o desenvolvimento do projeto foi pesquisado o funcionamento e aplicação básica de cada um dos 10 algoritmos de classificação, dentre eles:
 
@@ -33,6 +33,6 @@ Durante o desenvolvimento do projeto foi pesquisado o funcionamento e aplicaçã
 - Regressão Logística
 - K-Nearest Neighbor
 
-## Arquivos
+# Arquivos
 
 Neste repositório estão contidos alguns dos programas desenvolvidos durante a realização do projeto, os resultados obtidos e também a documentação feita para esta Iniciação Científica.
